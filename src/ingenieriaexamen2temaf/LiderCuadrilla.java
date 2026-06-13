@@ -10,7 +10,7 @@ public class LiderCuadrilla extends Trabajador{
         modem.mostrarDatos();
     }
     
-    public void informarReparacion(){
-        
+    public void informarReparacion(VisitaTecnica visita, String observacion){
+        visita.registrarReparacion(observacion);
     }
 }
