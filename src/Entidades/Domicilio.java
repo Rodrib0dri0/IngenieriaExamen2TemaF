@@ -1,5 +1,5 @@
 
-package ingenieriaexamen2temaf;
+package Entidades;
 
 public class Domicilio {
     private String calleA;

@@ -1,4 +1,4 @@
-package ingenieriaexamen2temaf;
+package Entidades;
 
 public class Trabajador {
     private int id;

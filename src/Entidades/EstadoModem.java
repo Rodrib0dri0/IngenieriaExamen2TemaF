@@ -1,5 +1,5 @@
 
-package ingenieriaexamen2temaf;
+package Entidades;
 
 public enum EstadoModem {
     OPERATIVO,
